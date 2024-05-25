@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gm kandhro</h1>
-<h3 align="center">A passionate MERN developer from pakistan</h3>
+<h3 align="center">A passionate full-stack developer from pakistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmkandhro&label=Profile%20views&color=0e75b6&style=flat" alt="gmkandhro" /> </p>
 
-- 🌱 I’m currently learning **backend development and next js 14**
+- 🌱 I’m currently creating full stack **projects in next js 14**
 
 - 📫 How to reach me **gmkandhro88@gmail.com**
 
