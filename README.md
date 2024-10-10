@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmkandhro&label=Profile%20views&color=0e75b6&style=flat" alt="gmkandhro" /> </p>
 
-- 🌱 I’m currently creating full stack **projects in next js 14**
+- 🌱 I’m currently learning **python** and creating full stack **projects in next js** 
 
 - 📫 How to reach me **gmkandhro88@gmail.com**
 
