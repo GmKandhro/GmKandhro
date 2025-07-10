@@ -12,12 +12,12 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on a **College Management System Backend Project**
-- 🌱 Learning **mySQL, Git & GitHub**
+- 🔭 I’m currently (backend developer) intern at **CodeBite**
+- 🌱 Learning **Python + fastApi**
 - 👯 Looking to collaborate on **real-world Backend projects**
 - 🤝 Open to learn about **SaaS development**
-- 💬 Ask me about **JavaScript, Node.js, and RESTful APIs**
-- 📫 Reach me at: **gmkandhro88@gmail.com**
+- 💬 Ask me about **Typescript, JavaScript, Node.js, and RESTful APIs**
+- 📫 Reach me at: **gmkandhro182@gmail.com**
 
 ---
 
