@@ -12,8 +12,7 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently (backend developer) intern at **CodeBite**
-- 🌱 Learning **Python + fastApi**
+- 🔭 I’m currently (backend developer) in **Node js**
 - 👯 Looking to collaborate on **real-world Backend projects**
 - 🤝 Open to learn about **SaaS development**
 - 💬 Ask me about **Typescript, JavaScript, Node.js, and RESTful APIs**
